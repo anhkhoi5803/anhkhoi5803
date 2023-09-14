@@ -1,7 +1,7 @@
 
 -  Hey there, I'm Anh Khoi Nguyen. You can call me Khoi for short.
--  I'm studying computer science at Lasalle College.
--  I'm interested in Backend Development.
+-  A student in computer science at Lasalle College.
+-  I am become Programmer, the Creator of Bugs
 
 You can reach me at https://www.linkedin.com/in/anhkhoi5803/  or anhkhoi5803@gmail.com
 
